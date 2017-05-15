@@ -3,7 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": null
+      "value": "dsmith"
+    },
+    "adminPassword": {
+      "value": "Tortola4two!"
+    },
+    "vmNamePrefix": {
+      "value": "srvADFS"
     }
   }
 }
